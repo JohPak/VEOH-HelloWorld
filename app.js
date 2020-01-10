@@ -1,1 +1,1 @@
-console.log('Terve!');
+console.log('Node JS on serveripuolen palikka');
